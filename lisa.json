@@ -1,0 +1,26 @@
+{
+    "error": false,
+    "version": "twelve",
+    "filename": "PixelOS_lisa-12.1-20220516-0310.zip",
+    "datetime": 1652670600,
+    "size": 2006323869,
+    "url": "URL_PLACEHOLDER",
+    "filehash": "cbb342f6a4f2cecdbefdce8fdcd4997f",
+    "id": "cbb342f6a4f2cecdbefdce8fdcd4997f",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "bheatleyyy",
+            "name": "Sugakesshaa"
+        },
+        {
+            "main_maintainer": false,
+            "github_username": "whyredfire",
+            "name": "Karan Parashar"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://pixelos.vercel.app/",
+    "news_url": "https://t.me/PixelOSOfficial",
+    "forum_url": "https://forum.xda-developers.com/t/rom-12-official-pixelos-aosp-stable-23-01-2022.4392297/"
+}
