@@ -1,0 +1,21 @@
+{
+    "error": false,
+    "version": "twelve",
+    "filename": "PixelOS_mojito-12.1-20220531-1348.zip",
+    "datetime": 1654004880,
+    "size": 1903051459,
+    "url": "https://github.com/dsashwin/OTA/releases/download/mojito_frfrfrfr_20223105/PixelOS_mojito-12.1-20220531-1348.zip",
+    "filehash": "54fdc614fef53693ea6926206240bd89",
+    "id": "54fdc614fef53693ea6926206240bd89",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "geek0609",
+            "name": "Ashwin DS"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://pixelos.vercel.app/",
+    "news_url": "https://t.me/PixelOSOfficial",
+    "forum_url": "https://forum.xda-developers.com/t/rom-12-1-mojito-sunny-pixelos-official-aosp.4401635/"
+}
