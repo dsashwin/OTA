@@ -1,0 +1,21 @@
+{
+    "error": false,
+    "version": "twelve",
+    "filename": "PixelOS_gauguin-12.1-20220602-1909.zip",
+    "datetime": "1654196940",
+    "size": "2105027872",
+    "url": "https://downloads.thecloverly.workers.dev/0:/PixelOS_gauguin-12.1-20220602-1909.zip",
+    "filehash": "4e98a148b373cc17a5b9e4888ea04f9f",
+    "id": "4e98a148b373cc17a5b9e4888ea04f9f",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "kawaaaaai",
+            "name": "kawaaii \u262d"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://pixelos.vercel.app/",
+    "news_url": "https://t.me/PixelOSOfficial",
+    "forum_url": "https://forum.xda-developers.com/t/rom-12-official-pixelos-aosp-stable-15-02-2022.4400725/"
+}
