@@ -1,12 +1,12 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_mojito-12.1-20220602-1454.zip",
-    "datetime": 1654181640,
-    "size": 1903056896,
+    "filename": "PixelOS_mojito-12.1-20220604-0958.zip",
+    "datetime": 1654336680,
+    "size": 1903090888,
     "url": "URL_PLACEHOLDER",
-    "filehash": "d3c2de79c747a21db7f8f148ee2851c1",
-    "id": "d3c2de79c747a21db7f8f148ee2851c1",
+    "filehash": "694cbee2c633fd7b3046c039df7064c9",
+    "id": "694cbee2c633fd7b3046c039df7064c9",
     "maintainers": [
         {
             "main_maintainer": false,
