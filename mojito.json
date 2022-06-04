@@ -1,12 +1,12 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_mojito-12.1-20220531-1348.zip",
-    "datetime": 1654004880,
-    "size": 1903051459,
-    "url": "https://github.com/dsashwin/OTA/releases/download/mojito_frfrfrfr_20223105/PixelOS_mojito-12.1-20220531-1348.zip",
-    "filehash": "54fdc614fef53693ea6926206240bd89",
-    "id": "54fdc614fef53693ea6926206240bd89",
+    "filename": "PixelOS_mojito-12.1-20220602-1454.zip",
+    "datetime": 1654181640,
+    "size": 1903056896,
+    "url": "https://github.com/dsashwin/OTA/releases/download/mojito_20220602_2123/",
+    "filehash": "d3c2de79c747a21db7f8f148ee2851c1",
+    "id": "d3c2de79c747a21db7f8f148ee2851c1",
     "maintainers": [
         {
             "main_maintainer": false,
