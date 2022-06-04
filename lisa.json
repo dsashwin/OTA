@@ -1,12 +1,12 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_lisa-12.1-20220530-2038.zip",
-    "datetime": 1653943080,
-    "size": 1980908335,
-    "url": "https://github.com/PixelOS-Releases/releases-public/releases/download/2022-05-31/PixelOS_lisa-12.1-20220530-2038.zip",
-    "filehash": "6464be2a984f0c802f3d8a675a1fa65c",
-    "id": "6464be2a984f0c802f3d8a675a1fa65c",
+    "filename": "PixelOS_lisa-12.1-20220604-0104.zip",
+    "datetime": 1654304640,
+    "size": 1980053006,
+    "url": "https://github.com/dsashwin/OTA/releases/download/lisa_20220604_0809/PixelOS_lisa-12.1-20220604-0104.zip",
+    "filehash": "421334b02c501cceb94a869dd9b7a5b4",
+    "id": "421334b02c501cceb94a869dd9b7a5b4",
     "maintainers": [
         {
             "main_maintainer": false,
