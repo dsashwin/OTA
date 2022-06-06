@@ -1,12 +1,12 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_sweet-12.1-20220601-2024.zip",
-    "datetime": 1654115040,
-    "size": 2115305351,
-    "url": "https://github.com/PixelOS-Devices/device_xiaomi_sm6150-common_davinci/releases/download/marja/PixelOS_sweet-12.1-20220601-2024.zip",
-    "filehash": "a668d6e66536497c617c29a7f3ef4fa3",
-    "id": "a668d6e66536497c617c29a7f3ef4fa3",
+    "filename": "PixelOS_sweet-12.1-20220606-1219.zip",
+    "datetime": 1654517940,
+    "size": 2039508878,
+    "url": "https://github.com/dsashwin/OTA/releases/download/sweet_20220606_1456/PixelOS_sweet-12.1-20220606-1219.zip",
+    "filehash": "1cc14abd448990bc61373ae6a818ef3e",
+    "id": "1cc14abd448990bc61373ae6a818ef3e",
     "maintainers": [
         {
             "main_maintainer": false,
