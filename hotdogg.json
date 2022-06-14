@@ -1,0 +1,21 @@
+{
+    "error": false,
+    "version": "twelve",
+    "filename": "PixelOS_hotdogg-12.1-20220614-0614.zip",
+    "datetime": 1655187240,
+    "size": 1827139311,
+    "url": "https://github.com/cyberknight777/OTA/releases/download/hotdogg_20220614_0614/PixelOS_hotdogg-12.1-20220614-0614.zip",
+    "filehash": "ca87e67ccab85fc654b65960c29d765d",
+    "id": "ca87e67ccab85fc654b65960c29d765d",
+    "maintainers": [
+	{
+	    "main_maintainer": true,
+	    "github_username": "cyberknight777",
+	    "name": "cyberknight777"
+	}
+    ],
+    "donate_url": "https://donate.cyberknight777.dev",
+    "website_url": "https://pixelos.vercel.app/",
+    "news_url": "https://t.me/PixelOSOfficial",
+    "forum_url": "https://forum.xda-developers.com/t/rom-12-official-pixelos-aosp-stable-15-02-2022.4400725/"
+}
