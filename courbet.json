@@ -1,0 +1,22 @@
+{
+    "error": false,
+    "version": "twelve",
+    "filename": "PixelOS_courbet-12.1-20220706-0046.zip",
+    "datetime": 1657068360,
+    "size": 2120922084,
+    "url": "https://github.com/dsashwin/OTA/releases/download/courbet_20220706_0330/PixelOS_courbet-12.1-20220706-0046.zip",
+    "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
+    "filehash": "303e425919d9639228b4aa9cce1189de",
+    "id": "303e425919d9639228b4aa9cce1189de",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "noonlord",
+            "name": "Yusuf"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://pixelos.vercel.app/",
+    "news_url": "https://t.me/PixelOSOfficial",
+    "forum_url": ""
+}
