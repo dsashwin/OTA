@@ -1,0 +1,27 @@
+{
+    "error": false,
+    "version": "twelve",
+    "filename": "PixelOS_davinci-12.1-20220806-2020.zip",
+    "datetime": 1659817200,
+    "size": 1933064821,
+    "url": "https://github.com/dsashwin/OTA/releases/download/davinci_20220806_2252/PixelOS_davinci-12.1-20220806-2020.zip",
+    "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
+    "filehash": "e43b4d98fcc98755618e93c5840f667a",
+    "id": "e43b4d98fcc98755618e93c5840f667a",
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "vansh123456",
+            "name": "Vansh"
+        },
+        {
+            "main_maintainer": false,
+            "github_username": "basamaryan",
+            "name": "Aryan"
+        }
+    ],
+    "donate_url": "",
+    "website_url": "https://pixelos.net/",
+    "news_url": "https://t.me/PixelOSOfficial",
+    "forum_url": ""
+}
