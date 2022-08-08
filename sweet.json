@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "twelve",
-    "filename": "PixelOS_sweet-12.1-20220806-1817.zip",
-    "datetime": 1659809820,
-    "size": 2089463963,
-    "url": "https://github.com/dsashwin/OTA/releases/download/sweet_20220806_2102/PixelOS_sweet-12.1-20220806-1817.zip",
+    "filename": "PixelOS_sweet-12.1-20220808-1327.zip",
+    "datetime": 1659965220,
+    "size": 2095284865,
+    "url": "https://github.com/dsashwin/OTA/releases/download/sweet_20220808_1557/PixelOS_sweet-12.1-20220808-1327.zip",
     "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
-    "filehash": "d73a288309b03ecef9f1abc2271a0f49",
-    "id": "d73a288309b03ecef9f1abc2271a0f49",
+    "filehash": "cd8733a8aac2a2d1003b81cdbfa65424",
+    "id": "cd8733a8aac2a2d1003b81cdbfa65424",
     "maintainers": [
         {
             "main_maintainer": false,
