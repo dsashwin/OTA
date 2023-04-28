@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_sweet-13.0-20230219-1621.zip",
-    "datetime": 1676823600,
-    "size": 2099459201,
-    "url": "https://github.com/dsashwin/OTA/releases/download/sweet_20230219_1658/PixelOS_sweet-13.0-20230219-1621.zip",
+    "filename": "PixelOS_sweet-13.0-20230428-1807.zip",
+    "datetime": 1682705206,
+    "size": 2106691487,
+    "url": "https://github.com/dsashwin/OTA/releases/download/sweet_20230428_1851/PixelOS_sweet-13.0-20230428-1807.zip",
     "github_releases_url": "GITHUB_RELEASES_PLACEHOLDER",
-    "filehash": "7f1bcd219d378c36632eb3056de450ce",
-    "id": "7f1bcd219d378c36632eb3056de450ce",
+    "filehash": "8b4d7de0cb8012980f6790289b9a1cae",
+    "id": "8b4d7de0cb8012980f6790289b9a1cae",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -18,5 +18,5 @@
     "donate_url": "",
     "website_url": "https://pixelos.net/",
     "news_url": "https://blog.pixelos.net/",
-    "forum_url": "https://forum.xda-developers.com/t/rom-12-official-pixelos-aosp-stable-14-02-2022.4402719/"
+    "forum_url": "https://forum.xda-developers.com/t/rom-13-official-pixelos-aosp-stable-13-04-2023.4402719/"
 }
